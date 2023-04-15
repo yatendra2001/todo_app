@@ -2,8 +2,6 @@
 
 This repository contains the source code for a simple yet efficient to-do app built using Flutter and Appwrite. It demonstrates how to authenticate users, fetch, add, update, and delete tasks in a user-friendly interface.
 
-![App Screenshot](app-screenshot.png)
-
 ## Features
 
 - User authentication with email and password
