@@ -39,7 +39,7 @@ A series of tutorial videos are available to help you build this app from scratc
 
 1. [Installing Flutter, Adding Appwrite as a Dependency, and Running the App on an Emulator/Browser](http://www.youtube.com/watch?v=MdM4pkIvD78)
 2. [Making Your First Request + Authentication UI on Flutter](http://www.youtube.com/watch?v=34HH86sCKkk)
-3. [Building a Simple To-Do App Using Appwrite and Flutter](http://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+3. [Building a Simple To-Do App Using Appwrite and Flutter](https://www.youtube.com/watch?v=ziuLopdMRTE)
 
 
 ## Contributing
