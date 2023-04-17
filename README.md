@@ -46,7 +46,7 @@ A series of tutorial videos are available to help you build this app from scratc
 
 ## Contributing
 
-If you'd like to contribute to this project, feel free to submit a pull request or open an issue for discussion.
+If you'd like to contribute to this project, feel free to submit a pull request or open an issue for discussion. Thanks for contribution!
 
 ## License
 
